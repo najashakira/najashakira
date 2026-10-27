@@ -1,6 +1,6 @@
 <div align="center">
- <img width="2624" height="3936" alt="MMJ06090" src="https://github.com/user-attachments/assets/bb31087e-54d6-45a2-ac21-294d4aa97563" />
- <img src="MMJ06090.jpg" width="180" alt="Naja Shakira Profile Picture" style="border-radius: 50%; border: 3px solid #007acc;"/>
+ <img width="2624" height="3936" alt= src="https://github.com/user-attachments/assets/bb31087e-54d6-45a2-ac21-294d4aa97563" />
+ <img src="" width="180" alt="" style="border-radius: 50%; border: 3px solid #007acc;"/>
   <h1>Naja Shakira</h1>
   <p><b>Finance & Business Analytics | Finance Management Graduate</b></p>
   
